@@ -16,7 +16,7 @@ This repository contains all of the source code used in the course called HTML, 
 
 # Outputs:
 
-* [Module-2]
-* [Module-3]
-* [Module-4]
-* [Module-5]
+* [Module-2](https://dariomejia.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/assignments/module2-solution/index.html)
+* [Module-3](https://dariomejia.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/assignments/module3-solution/index.html)
+* [Module-4](https://dariomejia.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/assignments/module4-solution/index.html)
+* [Module-5](https://dariomejia.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/assignments/module5-solution/index.html)
