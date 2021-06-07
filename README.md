@@ -1,9 +1,7 @@
 # HTML-CSS-and-Javascript-for-Web-Developers
 
 This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.
-
-![Course Completion certificate]
-
+If you want to see the version of the site that is the outcome of the course, [click here](https://dariomejia.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/site/index.html)
 
 # Assignments:
 
