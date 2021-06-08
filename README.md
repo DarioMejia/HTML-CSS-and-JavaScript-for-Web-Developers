@@ -20,3 +20,4 @@ If you want to see the final version of the site that is the outcome of the cour
 * [Module 5 - Solution](https://dariomejia.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/assignments/module5-solution/index.html)
 
 # Certificate:
+![Certificate](https://github.com/DarioMejia/HTML-CSS-and-JavaScript-for-Web-Developers/blob/main/HTML,%20CSS%20and%20JS%20-%20Certificate.jpeg)
